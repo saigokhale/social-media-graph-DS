@@ -1,0 +1,1314 @@
+/******************************************************************************
+
+OUTPUT:
+
+WELCOME TO OUR SOCIAL NETWORKING APPLICATION!!!
+
+===================================
+
+1.Sign up
+
+2.Login 
+
+3.Display existing accounts
+
+4.Display all connections
+
+0.Exit application
+
+===================================
+
+Enter option: 1
+
+
+
+<<< Enter account details >>>
+
+Username: a
+
+Password: a1234567
+
+Gender: f
+
+Date of birth (dd/mm/yyyy): 02/01/2001
+
+City: pune
+
+Contact number: 1899283655
+
+ACCOUNT CREATED!
+
+
+
+---------------Account details--------------------
+
+Username: a
+
+Gender: f
+
+Date of birth: 02/01/2001
+
+City: pune
+
+Contact Number: 1899283655
+
+Followers: 0
+
+Following: 0
+
+
+
+----------------------------------------------------
+
+SIGN UP SUCCESSFULL!
+
+Login to access your account.
+
+
+
+===================================
+
+1.Sign up
+
+2.Login 
+
+3.Display existing accounts
+
+4.Display all connections
+
+0.Exit application
+
+===================================
+
+Enter option: 1
+
+
+
+<<< Enter account details >>>
+
+Username: b
+
+Password: b1234567
+
+Gender: f
+
+Date of birth (dd/mm/yyyy): 22/04/2000
+
+City: mumbai
+
+Contact number: 9938636635
+
+ACCOUNT CREATED!
+
+
+
+---------------Account details--------------------
+
+Username: b
+
+Gender: f
+
+Date of birth: 22/04/2000
+
+City: mumbai
+
+Contact Number: 9938636635
+
+Followers: 0
+
+Following: 0
+
+
+
+----------------------------------------------------
+
+SIGN UP SUCCESSFULL!
+
+Login to access your account.
+
+
+
+===================================
+
+1.Sign up
+
+2.Login 
+
+3.Display existing accounts
+
+4.Display all connections
+
+0.Exit application
+
+===================================
+
+Enter option: 1
+
+
+
+<<< Enter account details >>>
+
+Username: c
+
+Password: c1234567
+
+Gender: f
+
+Date of birth (dd/mm/yyyy): 23/11/2001
+
+City: nagpur
+
+Contact number: 9928376634
+
+ACCOUNT CREATED!
+
+
+
+---------------Account details--------------------
+
+Username: c
+
+Gender: f
+
+Date of birth: 23/11/2001
+
+City: nagpur
+
+Contact Number: 9928376634
+
+Followers: 0
+
+Following: 0
+
+
+
+----------------------------------------------------
+
+SIGN UP SUCCESSFULL!
+
+Login to access your account.
+
+
+
+===================================
+
+1.Sign up
+
+2.Login 
+
+3.Display existing accounts
+
+4.Display all connections
+
+0.Exit application
+
+===================================
+
+Enter option: 2
+
+Enter username: 2
+
+Username doesn't exist
+
+Enter username: a
+
+Enter password: a12
+
+Incorrect password :/
+
+Enter password: a1234567
+
+a LOGGED IN SUCCESSFULLY!!
+
+
+
+----------------------------------------------------
+
+	MENU :
+
+1.Search a profile
+
+2.Send follow request
+
+3.Accept requests
+
+4.Show followers list
+
+5.Unfollow an account
+
+6.Show follow recommendations
+
+7.Show mutuals
+
+0.Log out
+
+----------------------------------------------------
+
+Enter your choice: 2
+
+
+
+< active account: a >
+
+Enter username: b
+
+a sent a request to b
+
+----------------------------------------------------
+
+	MENU :
+
+1.Search a profile
+
+2.Send follow request
+
+3.Accept requests
+
+4.Show followers list
+
+5.Unfollow an account
+
+6.Show follow recommendations
+
+7.Show mutuals
+
+0.Log out
+
+----------------------------------------------------
+
+Enter your choice: 2
+
+
+
+< active account: a >
+
+Enter username: c
+
+a sent a request to c
+
+----------------------------------------------------
+
+	MENU :
+
+1.Search a profile
+
+2.Send follow request
+
+3.Accept requests
+
+4.Show followers list
+
+5.Unfollow an account
+
+6.Show follow recommendations
+
+7.Show mutuals
+
+0.Log out
+
+----------------------------------------------------
+
+Enter your choice: 0
+
+
+
+<logging off account: a >LOGGED OUT.
+
+===================================
+
+1.Sign up
+
+2.Login 
+
+3.Display existing accounts
+
+4.Display all connections
+
+0.Exit application
+
+===================================
+
+Enter option: 2
+
+Enter username: b
+
+Enter password: b1234567
+
+b LOGGED IN SUCCESSFULLY!!
+
+
+
+----------------------------------------------------
+
+	MENU :
+
+1.Search a profile
+
+2.Send follow request
+
+3.Accept requests
+
+4.Show followers list
+
+5.Unfollow an account
+
+6.Show follow recommendations
+
+7.Show mutuals
+
+0.Log out
+
+----------------------------------------------------
+
+Enter your choice: 2
+
+
+
+< active account: b >
+
+Enter username: c
+
+b sent a request to c
+
+----------------------------------------------------
+
+	MENU :
+
+1.Search a profile
+
+2.Send follow request
+
+3.Accept requests
+
+4.Show followers list
+
+5.Unfollow an account
+
+6.Show follow recommendations
+
+7.Show mutuals
+
+0.Log out
+
+----------------------------------------------------
+
+Enter your choice: 3
+
+
+
+< active account: b >
+
+
+
+-----------------REQUESTS-------------------------
+
+   [ b ] pending requests: 
+
+[1. a]  
+
+----------------------------------------------------
+
+Enter the index of profile to accept request: 1
+
+Do you want to accept more requests?(y/n): y
+
+ [ b ] No pending requests 
+
+
+
+----------------------------------------------------
+
+	MENU :
+
+1.Search a profile
+
+2.Send follow request
+
+3.Accept requests
+
+4.Show followers list
+
+5.Unfollow an account
+
+6.Show follow recommendations
+
+7.Show mutuals
+
+0.Log out
+
+----------------------------------------------------
+
+Enter your choice: 4
+
+
+
+< active account: b >
+
+b followers: 
+
+[a]  
+
+----------------------------------------------------
+
+	MENU :
+
+1.Search a profile
+
+2.Send follow request
+
+3.Accept requests
+
+4.Show followers list
+
+5.Unfollow an account
+
+6.Show follow recommendations
+
+7.Show mutuals
+
+0.Log out
+
+----------------------------------------------------
+
+Enter your choice: 0
+
+
+
+<logging off account: b >LOGGED OUT.
+
+===================================
+
+1.Sign up
+
+2.Login 
+
+3.Display existing accounts
+
+4.Display all connections
+
+0.Exit application
+
+===================================
+
+Enter option: 2
+
+Enter username: c
+
+Enter password: c1234567
+
+c LOGGED IN SUCCESSFULLY!!
+
+
+
+----------------------------------------------------
+
+	MENU :
+
+1.Search a profile
+
+2.Send follow request
+
+3.Accept requests
+
+4.Show followers list
+
+5.Unfollow an account
+
+6.Show follow recommendations
+
+7.Show mutuals
+
+0.Log out
+
+----------------------------------------------------
+
+Enter your choice: 3
+
+
+
+< active account: c >
+
+
+
+-----------------REQUESTS-------------------------
+
+   [ c ] pending requests: 
+
+[1. a]  [2. b]  
+
+----------------------------------------------------
+
+Enter the index of profile to accept request: 1
+
+Do you want to accept more requests?(y/n): y
+
+
+
+-----------------REQUESTS-------------------------
+
+   [ c ] pending requests: 
+
+[1. b]  
+
+----------------------------------------------------
+
+Enter the index of profile to accept request: 1
+
+Do you want to accept more requests?(y/n): n
+
+
+
+----------------------------------------------------
+
+	MENU :
+
+1.Search a profile
+
+2.Send follow request
+
+3.Accept requests
+
+4.Show followers list
+
+5.Unfollow an account
+
+6.Show follow recommendations
+
+7.Show mutuals
+
+0.Log out
+
+----------------------------------------------------
+
+Enter your choice: 4
+
+
+
+< active account: c >
+
+c followers: 
+
+[a]  [b]  
+
+----------------------------------------------------
+
+	MENU :
+
+1.Search a profile
+
+2.Send follow request
+
+3.Accept requests
+
+4.Show followers list
+
+5.Unfollow an account
+
+6.Show follow recommendations
+
+7.Show mutuals
+
+0.Log out
+
+----------------------------------------------------
+
+Enter your choice: 0
+
+
+
+<logging off account: c >LOGGED OUT.
+
+===================================
+
+1.Sign up
+
+2.Login 
+
+3.Display existing accounts
+
+4.Display all connections
+
+0.Exit application
+
+===================================
+
+Enter option: 3
+
+
+
+----------ALL ACCOUNTS IN THE NETWORK--------------
+
+[a]  [b]  [c]  
+
+----------------------------------------------------
+
+
+
+===================================
+
+1.Sign up
+
+2.Login 
+
+3.Display existing accounts
+
+4.Display all connections
+
+0.Exit application
+
+===================================
+
+Enter option: 4
+
+
+
+-------------------Connections----------------------
+
+[ following list ]
+
+
+
+a : [ b   c  ]
+
+b : [ c  ]
+
+c : []
+
+----------------------------------------------------
+
+
+
+===================================
+
+1.Sign up
+
+2.Login 
+
+3.Display existing accounts
+
+4.Display all connections
+
+0.Exit application
+
+===================================
+
+Enter option: 2
+
+Enter username: c
+
+Enter password: c1234567
+
+c LOGGED IN SUCCESSFULLY!!
+
+
+
+----------------------------------------------------
+
+	MENU :
+
+1.Search a profile
+
+2.Send follow request
+
+3.Accept requests
+
+4.Show followers list
+
+5.Unfollow an account
+
+6.Show follow recommendations
+
+7.Show mutuals
+
+0.Log out
+
+----------------------------------------------------
+
+Enter your choice: 2
+
+
+
+< active account: c >
+
+Enter username: a
+
+c sent a request to a
+
+----------------------------------------------------
+
+	MENU :
+
+1.Search a profile
+
+2.Send follow request
+
+3.Accept requests
+
+4.Show followers list
+
+5.Unfollow an account
+
+6.Show follow recommendations
+
+7.Show mutuals
+
+0.Log out
+
+----------------------------------------------------
+
+Enter your choice: 0
+
+
+
+<logging off account: c >LOGGED OUT.
+
+===================================
+
+1.Sign up
+
+2.Login 
+
+3.Display existing accounts
+
+4.Display all connections
+
+0.Exit application
+
+===================================
+
+Enter option: 2
+
+Enter username: a
+
+Enter password: a1234567
+
+a LOGGED IN SUCCESSFULLY!!
+
+
+
+----------------------------------------------------
+
+	MENU :
+
+1.Search a profile
+
+2.Send follow request
+
+3.Accept requests
+
+4.Show followers list
+
+5.Unfollow an account
+
+6.Show follow recommendations
+
+7.Show mutuals
+
+0.Log out
+
+----------------------------------------------------
+
+Enter your choice: 3
+
+
+
+< active account: a >
+
+
+
+-----------------REQUESTS-------------------------
+
+   [ a ] pending requests: 
+
+[1. c]  
+
+----------------------------------------------------
+
+Enter the index of profile to accept request: 1
+
+Do you want to accept more requests?(y/n): n
+
+
+
+----------------------------------------------------
+
+	MENU :
+
+1.Search a profile
+
+2.Send follow request
+
+3.Accept requests
+
+4.Show followers list
+
+5.Unfollow an account
+
+6.Show follow recommendations
+
+7.Show mutuals
+
+0.Log out
+
+----------------------------------------------------
+
+Enter your choice: 0
+
+
+
+<logging off account: a >LOGGED OUT.
+
+===================================
+
+1.Sign up
+
+2.Login 
+
+3.Display existing accounts
+
+4.Display all connections
+
+0.Exit application
+
+===================================
+
+Enter option: 4
+
+
+
+-------------------Connections----------------------
+
+[ following list ]
+
+
+
+a : [ b   c  ]
+
+b : [ c  ]
+
+c : [ a  ]
+
+----------------------------------------------------
+
+
+
+===================================
+
+1.Sign up
+
+2.Login 
+
+3.Display existing accounts
+
+4.Display all connections
+
+0.Exit application
+
+===================================
+
+Enter option: 2
+
+Enter username: a
+
+Enter password: a1234567
+
+a LOGGED IN SUCCESSFULLY!!
+
+
+
+----------------------------------------------------
+
+	MENU :
+
+1.Search a profile
+
+2.Send follow request
+
+3.Accept requests
+
+4.Show followers list
+
+5.Unfollow an account
+
+6.Show follow recommendations
+
+7.Show mutuals
+
+0.Log out
+
+----------------------------------------------------
+
+Enter your choice: 7
+
+
+
+< active account: a >
+
+Enter username to find mutuals: b
+
+
+
+----------------------------------------------------
+
+a & b MUTUALS LIST:
+
+
+
+[c]
+
+(1 mutuals found.)
+
+
+
+----------------------------------------------------
+
+
+
+----------------------------------------------------
+
+	MENU :
+
+1.Search a profile
+
+2.Send follow request
+
+3.Accept requests
+
+4.Show followers list
+
+5.Unfollow an account
+
+6.Show follow recommendations
+
+7.Show mutuals
+
+0.Log out
+
+----------------------------------------------------
+
+Enter your choice: 0
+
+
+
+<logging off account: a >LOGGED OUT.
+
+===================================
+
+1.Sign up
+
+2.Login 
+
+3.Display existing accounts
+
+4.Display all connections
+
+0.Exit application
+
+===================================
+
+Enter option: 2
+
+Enter username: c
+
+Enter password: c1234567
+
+c LOGGED IN SUCCESSFULLY!!
+
+
+
+----------------------------------------------------
+
+	MENU :
+
+1.Search a profile
+
+2.Send follow request
+
+3.Accept requests
+
+4.Show followers list
+
+5.Unfollow an account
+
+6.Show follow recommendations
+
+7.Show mutuals
+
+0.Log out
+
+----------------------------------------------------
+
+Enter your choice: 6
+
+
+
+< active account: c >
+
+
+
+----------------------------------------------------
+
+RECOMMENDATIONS FOR c :  
+
+[b] 
+
+----------------------------------------------------
+
+
+
+----------------------------------------------------
+
+	MENU :
+
+1.Search a profile
+
+2.Send follow request
+
+3.Accept requests
+
+4.Show followers list
+
+5.Unfollow an account
+
+6.Show follow recommendations
+
+7.Show mutuals
+
+0.Log out
+
+----------------------------------------------------
+
+Enter your choice: 5
+
+
+
+< active account: c >
+
+Enter username of account to unfollow: b
+
+c doesn't follow b
+
+
+
+----------------------------------------------------
+
+	MENU :
+
+1.Search a profile
+
+2.Send follow request
+
+3.Accept requests
+
+4.Show followers list
+
+5.Unfollow an account
+
+6.Show follow recommendations
+
+7.Show mutuals
+
+0.Log out
+
+----------------------------------------------------
+
+Enter your choice: 5
+
+
+
+< active account: c >
+
+Enter username of account to unfollow: a
+
+
+
+----------------------------------------------------
+
+	MENU :
+
+1.Search a profile
+
+2.Send follow request
+
+3.Accept requests
+
+4.Show followers list
+
+5.Unfollow an account
+
+6.Show follow recommendations
+
+7.Show mutuals
+
+0.Log out
+
+----------------------------------------------------
+
+Enter your choice: 0
+
+
+
+<logging off account: c >LOGGED OUT.
+
+===================================
+
+1.Sign up
+
+2.Login 
+
+3.Display existing accounts
+
+4.Display all connections
+
+0.Exit application
+
+===================================
+
+Enter option: 4
+
+
+
+-------------------Connections----------------------
+
+[ following list ]
+
+
+
+a : [ b   c  ]
+
+b : [ c  ]
+
+c : []
+
+----------------------------------------------------
+
+
+
+===================================
+
+1.Sign up
+
+2.Login 
+
+3.Display existing accounts
+
+4.Display all connections
+
+0.Exit application
+
+===================================
+
+Enter option: 2
+
+Enter username: a
+
+Enter password: a1234567
+
+a LOGGED IN SUCCESSFULLY!!
+
+
+
+----------------------------------------------------
+
+	MENU :
+
+1.Search a profile
+
+2.Send follow request
+
+3.Accept requests
+
+4.Show followers list
+
+5.Unfollow an account
+
+6.Show follow recommendations
+
+7.Show mutuals
+
+0.Log out
+
+----------------------------------------------------
+
+Enter your choice: 1
+
+
+
+< active account: a >
+
+Enter username to view the profile: b
+
+
+
+---------------Account details--------------------
+
+Username: b
+
+Gender: f
+
+Date of birth: 22/04/2000
+
+City: mumbai
+
+Contact Number: 9938636635
+
+Followers: 1
+
+Following: 1
+
+
+
+----------------------------------------------------
+
+
+
+----------------------------------------------------
+
+	MENU :
+
+1.Search a profile
+
+2.Send follow request
+
+3.Accept requests
+
+4.Show followers list
+
+5.Unfollow an account
+
+6.Show follow recommendations
+
+7.Show mutuals
+
+0.Log out
+
+----------------------------------------------------
+
+Enter your choice: 0
+
+
+
+<logging off account: a >LOGGED OUT.
+
+===================================
+
+1.Sign up
+
+2.Login 
+
+3.Display existing accounts
+
+4.Display all connections
+
+0.Exit application
+
+===================================
+
+Enter option: 0
+
+TERMINATED.
+
+
+
+*******************************************************************************/
+
